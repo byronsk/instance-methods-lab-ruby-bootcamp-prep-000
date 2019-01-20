@@ -4,4 +4,7 @@ def Person
     puts "Hello World!"
     
     def walk 
-      puts 
+      puts "The Person is walking"
+      
+    end
+  end
